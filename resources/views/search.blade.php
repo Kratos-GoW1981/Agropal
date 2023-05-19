@@ -46,7 +46,7 @@ product details  -->
          <div class="price">Rs. {{$product->price}}</div> 
          <br>
          <div class="buttons d-flex justify-content-center"> 
-         <a href="/productdetails/{{ $product->id}}" class="buy_now btn-success">see more</a>
+         <a href="/productdetails/{{ $product->id}}" class="buy_now btn-success">See more here</a>
 </div>
          </div>
  </div>
